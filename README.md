@@ -8,3 +8,6 @@ https://ajolicoeur.wordpress.com/relativisticgan/ ; https://github.com/AlexiaJM/
 
 https://mostafa-samir.github.io/ml-theory-pt1/
 https://piazza.com/mit/spring2016/6882/home
+
+
+https://physicsml.github.io/blog/tensor-network.html
